@@ -1,0 +1,2 @@
+# Berrospe_BanSql
+SISTEMA PARA BANEAR, ESX LEGACY
